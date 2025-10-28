@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Vedant
 
+[![An image of @vedant381's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedant381)](https://holopin.io/@vedant381)
 
 ## 🔥 GitHub Streak
 
